@@ -1,0 +1,13 @@
+C:\Users\91807\source\repos\Task2\ProjectTask\bin\Debug\netcoreapp3.1\ProjectTask.exe
+C:\Users\91807\source\repos\Task2\ProjectTask\bin\Debug\netcoreapp3.1\ProjectTask.deps.json
+C:\Users\91807\source\repos\Task2\ProjectTask\bin\Debug\netcoreapp3.1\ProjectTask.runtimeconfig.json
+C:\Users\91807\source\repos\Task2\ProjectTask\bin\Debug\netcoreapp3.1\ProjectTask.runtimeconfig.dev.json
+C:\Users\91807\source\repos\Task2\ProjectTask\bin\Debug\netcoreapp3.1\ProjectTask.dll
+C:\Users\91807\source\repos\Task2\ProjectTask\bin\Debug\netcoreapp3.1\ProjectTask.pdb
+C:\Users\91807\source\repos\Task2\ProjectTask\obj\Debug\netcoreapp3.1\ProjectTask.csprojAssemblyReference.cache
+C:\Users\91807\source\repos\Task2\ProjectTask\obj\Debug\netcoreapp3.1\ProjectTask.AssemblyInfoInputs.cache
+C:\Users\91807\source\repos\Task2\ProjectTask\obj\Debug\netcoreapp3.1\ProjectTask.AssemblyInfo.cs
+C:\Users\91807\source\repos\Task2\ProjectTask\obj\Debug\netcoreapp3.1\ProjectTask.csproj.CoreCompileInputs.cache
+C:\Users\91807\source\repos\Task2\ProjectTask\obj\Debug\netcoreapp3.1\ProjectTask.dll
+C:\Users\91807\source\repos\Task2\ProjectTask\obj\Debug\netcoreapp3.1\ProjectTask.pdb
+C:\Users\91807\source\repos\Task2\ProjectTask\obj\Debug\netcoreapp3.1\ProjectTask.genruntimeconfig.cache
